@@ -1,18 +1,18 @@
 # mama_Robot
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/DivideProjects/mama_Robot?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/DivideProjects/mama_Robot?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/DivideProjects/mama_Robot?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/DivideProjects/mama_Robot?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/DivideProjects/mama_Robot?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/DivideProjects/mama_Robot?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DivideProjects/mama_Robot&amp;title=Profile%20Views" alt="Views">
+  <img src="https://img.shields.io/github/forks/jaylenebowmanhopkins/mama_Robot?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/jaylenebowmanhopkins/mama_Robot?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/jaylenebowmanhopkins/mama_Robot?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/license/jaylenebowmanhopkins/mama_Robot?style=flat-square" alt="LICENSE">
+  <img src="https://img.shields.io/github/contributors/jaylenebowmanhopkins/mama_Robot?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/jaylenebowmanhopkins/mama_Robot?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jaylenebowmanhopkins/mama_Robot&amp;title=Profile%20Views" alt="Views">
 </p>
 
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/DivideProjects/Alita_Robot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+  <a href="https://github.com/jaylenebowmanhopkins/mama_Robot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
   <a href="https://deepsource.io/gh/jaylenebowmanhopkins/mama_Robot/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a>
   <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
