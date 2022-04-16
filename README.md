@@ -37,14 +37,14 @@ mama is a Telegram Group managment bot made using **[Pyrogram](https://github.co
 Can be found on Telegram as [@mama_Robot](https://t.me/mama_Robot)
 </br>
 
-Alita is currently available in 1 Language as of now:
+mama is currently available in 1 Language as of now:
 - **US English**
 
 More languages can be managed in the _locales_ folder.
 
 We are still working on adding new languages.
 
-Help us bring more languages to the bot by contributing to the project on [Crowdin](https://crowdin.com/project/alitarobot)
+Help us bring more languages to the bot by contributing to the project on [Crowdin](https://crowdin.com/project/mamarobot)
 
 ## Requirements
 - You need to have a *Mongo Database* (Cluster Preferred)
