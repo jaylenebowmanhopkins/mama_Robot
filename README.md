@@ -84,7 +84,7 @@ It really motivates me to continue this project further.
 - Clone the repo and enter into it
 - Install [Docker](https://www.docker.com/)
 - Fill in the `sample.env` file and rename it to `main.env`.
-- Build the docker image using: `docker build -t alita_robot:latest .` (The dot '.' at last is necessary!)
+- Build the docker image using: `docker build -t mama_robot:latest .` (The dot '.' at last is necessary!)
 - Run the command `docker run --env-file main.env mama_robot`
 
 
@@ -108,8 +108,8 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group!
 ### Copyright & License
 
 * Copyright (C) 2020-2021 by [Divkix](https://github.com/Divkix) ❤️️
-* Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/DivideProjects/Alita_Robot/blob/master/LICENSE)
+* Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/jaylenebowmanhopkins/mama_Robot/blob/master/LICENSE)
 
 ## Powered By
 
-[![DivideProjects](https://img.shields.io/badge/Divide-Projects-green?style=for-the-badge&logo=appveyor)](https://t.me/DivideProjectsDiscussion)
+[![DivideProjects](https://img.shields.io/badge/Divide-rojects-green?style=for-the-badge&logo=appveyor)](https://t.me/DividerojectsDiscussion)
